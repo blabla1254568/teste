@@ -3,9 +3,13 @@
     padding: 0;
 }
 
-
 :root {
-    --cor-do-fundo: #000000;
+    --cor-do-fundo: #1f0050;
+    --cor-primaria: #ffffff;
+}
+
+body {
+    color: var(--cor-primaria);
 }
 
 .container {
@@ -15,3 +19,4 @@
 .principal {
     background-color: var(--cor-do-fundo);
 }
+
