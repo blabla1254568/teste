@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+:root {
+    --cor-do-fundo: #000000;
+}
+
+.container {
+    height: 100vh;
+}
+
+.principal {
+    background-color: var(--cor-do-fundo);
+}
